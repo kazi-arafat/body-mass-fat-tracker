@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  /* background-color: #0000ff; */
+}
+
+.layout-nav {
+  background-color: #9a53d4;
+}
+.content-foot {
+  background-color: #c39ce4;
+}
