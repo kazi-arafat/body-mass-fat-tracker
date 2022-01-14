@@ -12,3 +12,6 @@
 .content-foot {
   background-color: #c39ce4;
 }
+.not-valid {
+  cursor: no-drop !important;
+}

@@ -1,5 +1,5 @@
 export interface IBodyMetrics {
-  gender: string;
+  username: string;
   weight: number;
   waste: number;
   height: number;
