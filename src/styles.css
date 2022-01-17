@@ -5,13 +5,26 @@
   box-sizing: border-box;
   /* background-color: #0000ff; */
 }
+/* .main-content {
+  height: 100vw;
+} */
 
 .layout-nav {
   background-color: #9a53d4;
 }
 .content-foot {
+  position: absolute;
   background-color: #c39ce4;
+  bottom: 0;
+  width: 98.3%;
+  padding-top: 10px;
+  padding-bottom: 0px;
 }
 .not-valid {
   cursor: no-drop !important;
+}
+
+.btn-custom {
+  background-color: #8f3ed1d5 !important;
+  border-color: #8f3ed1d5 !important;
 }
